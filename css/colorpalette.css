@@ -5,7 +5,7 @@
 	--background-color00: transparent;
 
 	/*Background Images*/
-	--background-image01: url('img/Textures/Texture01-08a-c.png');
+	--background-image01: url('img/Textures/texture01-08a-c.png');
 	/*--background-image02: url('img/Textures/Parchment2.png');
 	--background-image03: url('img/Textures/Wood.jpg');*/
 
@@ -14,7 +14,7 @@
 	--background-color01: var(--background-color00);
 	--background-color01: #922610;
 	/*--background-color02: lightgrey;*/ /*Odd Rows, Subclasses*/
-	--background-color02: lightgrey;
+	--background-color02: #a86355;
 	/*--background-color03: #e69a28;*//*Statblock Border Background*/
 	--background-color03: #922610;
 	/*--background-color04: #922610;*/ /*Statblock Divider Background Color*/

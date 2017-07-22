@@ -3,6 +3,12 @@
 	background: var(--background-color07);
 }
 
+/*Restyled Bootstrap*/
+.nav>li>a {
+	border-radius: 0.5em;
+	color:var(--textcolor03);
+	background-color:var(--background-color02)
+}
 
 body {
 	color: var(--textcolor06);
