@@ -1,0 +1,82 @@
+:root {
+
+	--background-color-01: rgb(44,38,29);
+	--background-color-01: white;
+	--background-color00: transparent;
+
+	/*Background Images*/
+	--background-image01: url('img/Textures/Texture01-08a-c.png');
+	/*--background-image02: url('img/Textures/Parchment2.png');
+	--background-image03: url('img/Textures/Wood.jpg');*/
+
+	/*Stylesheet Colors*/
+	/*--background-color01: rgb(0, 107, 196);*/ /*Header Background Color*/
+	--background-color01: var(--background-color00);
+	--background-color01: #922610;
+	/*--background-color02: lightgrey;*/ /*Odd Rows, Subclasses*/
+	--background-color02: lightgrey;
+	/*--background-color03: #e69a28;*//*Statblock Border Background*/
+	--background-color03: #922610;
+	/*--background-color04: #922610;*/ /*Statblock Divider Background Color*/
+	--background-color04: #922610;
+	/*--background-color05: white;*/
+	--background-color05: white;
+	/*--background-color06: #fdf1dc;*/ /*Statblock Background Color*/
+	--background-color06: #fdf1dc;
+	/*--background-color07: #337ab7;*/ /*Tab Buttons*/
+	--background-color07: var(--background-color01);
+
+	/*Bootstrap Colors*/
+	--background-color08: white;
+	--background-color09: yellow;
+	--background-color10: #fcf8e3;	/*Bootstrap "Mark", "Warning"*/
+	--background-color11: var(--background-color07);	/*BG Primary*/
+	--background-color12: #286090;	/*Hover*/
+	--background-color13: #dff0d8;	/*Success*/
+	--background-color14: #c1e2b3;	/*Success Hover*/
+	--background-color15: #d9edf7;	/*Info*/
+	--background-color16: #afd9ee;	/*Info Hover*/
+	--background-color17: #f7ecb5;	/*"Warning Hover"*/
+	--background-color18: #f2dede;	/*Danger*/
+	--background-color19: #e4b9b9;	/*Danger Hover*/
+	--background-color20: #f9f2f4;	/*Code*/
+	--background-color21: #333333;	/*Kbd*/
+	--background-color22: #f5f5f5;	/*Pre*/
+	--background-color23: #f9f9f9;	/*Odd Row*/
+	--background-color24: #f5f5f5;	/*Row Hover/Active*/
+	--background-color30: #eee;
+	/*background-color:#e8e8e8;
+	background-color:#d0e9c6;
+	background-color:#c4e3f3;
+	background-color:#faf2cc;
+	background-color:#ebcccc;
+	background-color:#eee;
+	background-color:#e6e6e6;
+	background-color:#d4d4d4;
+	background-color:#204d74;
+	background-color:#5cb85c;
+	background-color:#449d44;
+	background-color:#398439;
+	background-color:#5cb85c; */
+
+
+	--textcolor01: white; /*Header Text*/
+	--textcolor02: lightgrey;
+	--textcolor03: black; /*Statblock Default Text Color*/
+	/*--textcolor04: #922610;*/ /*Statblock Header Text*/
+	--textcolor04: var(--background-color04);
+	--textcolor05: #337ab7;
+	--textcolor06: black; /*Default Text Color*/
+
+	--sourcecolor01: purple;
+	--sourcecolor02: green;
+	--sourcecolor03: grey;
+	--sourcecolor04: orangered;
+	--sourcecolor05: orange;
+	--sourcecolor06: black;
+	--sourcecolor07: darkcyan;
+	--sourcecolor08: blue;
+	--sourcecolor09: lightgreen;
+	--sourcecolor10: red;
+	--sourcecolor11: maroon;
+}

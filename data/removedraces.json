@@ -1,0 +1,91 @@
+
+      {
+        "name": "Dragonborn",
+        "source": "Player's Handbook",
+        "size": "M",
+        "speed": "30",
+        "ability": "Str 2, Cha 1",
+        "trait": [
+          {
+            "name": "Draconic Ancestry",
+            "text": [
+              "You have draconic ancestry. Choose one type of dragon from the Draconic Ancestry table. Your breath weapon and damage resistance are determined by the dragon type, as shown in the table. (Player's Handbook p. 34)"
+            ]
+          },
+          {
+            "name": "Breath Weapon",
+            "text": [
+              "You can use your action to exhale destructive energy. Your draconic ancestry determines the size, shape, and damage type of the exhalation.",
+              null,
+              "When you use your breath weapon, each creature in the area of the exhalation must make a saving throw, the type of which is determined by your draconic ancestry. The DC for this saving throw equals 8 + your Constitution modifier + your proficiency bonus. A creature takes 2d6 damage on a failed save, and half as much damage on a successful one. The damage increases to 3d6 at 6th level, 4d6 at 11th level, and 5d6 at 16th level.",
+              null,
+              "After you use your breath weapon, you can't use it again until you complete a short or long rest."
+            ]
+          },
+          {
+            "name": "Damage Resistance",
+            "text": [
+              "You have resistance to the damage type associated with your draconic ancestry."
+            ]
+          },
+          {
+            "name": "Languages",
+            "text": [
+              "You can speak, read, and write Common and Draconic. Draconic is thought to be one of the oldest languages and is often used in the study of magic. The language sounds harsh to most other creatures and includes numerous hard consonants and sibilants."
+            ]
+          }
+        ]
+      },
+      
+      {
+        "name": "Elf (Eladrin)",
+        "source": "Dungeon Master's Guide",
+        "size": "M",
+        "speed": "30",
+        "ability": "Dex 2, Int 1",
+        "proficiency": "Perception",
+        "trait": [
+          {
+            "name": "Darkvision",
+            "text": [
+              "Accustomed to twilit forests and the night sky, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+            ]
+          },
+          {
+            "name": "Keen Senses",
+            "text": [
+              "You have proficiency in the Perception skill."
+            ]
+          },
+          {
+            "name": "Fey Ancestry",
+            "text": [
+              "You have advantage on saving throws against being charmed, and magic can't put you to sleep."
+            ]
+          },
+          {
+            "name": "Trance",
+            "text": [
+              "Elves don't need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. (The Common word for such meditation is \"trance.\") While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep."
+            ]
+          },
+          {
+            "name": "Languages",
+            "text": [
+              "You can speak, read, and write Common and Elvish. Elvish is fluid, with subtle intonations and intricate grammar. Elven literature is rich and varied, and their songs and poems are famous among other races. Many bards learn their language so they can add Elvish ballads to their repertoires."
+            ]
+          },
+          {
+            "name": "Elf Weapon Training",
+            "text": [
+              "You have proficiency with the longsword, shortsword, shortbow, and longbow."
+            ]
+          },
+          {
+            "name": "Fey Step",
+            "text": [
+              "You can cast the misty step spell once using this trait. You regain the ability to do so when you finish a short or long rest."
+            ]
+          }
+        ]
+      },
