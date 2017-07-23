@@ -4631,7 +4631,6 @@
                 "name": "Defensive Style: Armor",
                 "text": [
                   "The best defense is a good suit of armor.",
-                  null,
                   "You gain proficiency with medium armor and heavy armor."
                 ],
                 "parent": "Defensive Style",
@@ -4642,7 +4641,6 @@
                 "name": "Defensive Style: Quick Wits",
                 "text": [
                   "The best defense is to outsmart your opponents.",
-                  null,
                   "While you are wearing no armor, your AC equals 10 + your Dexterity modifier + your Intelligence modifier."
                 ],
                 "parent": "Defensive Style",
@@ -4653,7 +4651,6 @@
                 "name": "Defensive Style: Charmed Life",
                 "text": [
                   "Defense? I try not to worry about it. Things have a habit of working out for the best.",
-                  null,
                   "While you are wearing no armor, your AC equals 10 + your Dexterity modifier + your Charisma modifier."
                 ],
                 "parent": "Defensive Style",
@@ -8017,7 +8014,6 @@
                 "name": "Defensive Style: Armor",
                 "text": [
                   "The best defense is a good suit of armor.",
-                  null,
                   "You gain proficiency with medium armor and heavy armor."
                 ],
                 "parent": "Defensive Style",
@@ -8028,7 +8024,6 @@
                 "name": "Defensive Style: Quick Wits",
                 "text": [
                   "The best defense is to outsmart your opponents.",
-                  null,
                   "While you are wearing no armor, your AC equals 10 + your Dexterity modifier + your Intelligence modifier."
                 ],
                 "parent": "Defensive Style",
@@ -8039,7 +8034,6 @@
                 "name": "Defensive Style: Charmed Life",
                 "text": [
                   "Defense? I try not to worry about it. Things have a habit of working out for the best.",
-                  null,
                   "While you are wearing no armor, your AC equals 10 + your Dexterity modifier + your Charisma modifier."
                 ],
                 "parent": "Defensive Style",
