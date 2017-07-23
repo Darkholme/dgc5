@@ -1,0 +1,38 @@
+
+      {
+        "name": "Observant",
+        "source": "C0re's Handbook",
+        "text": [
+          "Quick to notice details of your environment, you gain the following benefits:",
+          null,
+          "• Increase your Intelligence or Wisdom score by 1, to a maximum of 20.",
+          null,
+          "• If you can see a creature's mouth while it is speaking a language you understand, you can interpret what it's saying by reading its lips.",
+          null,
+          "• You have a +5 bonus to your passive Wisdom (Perception) and passive Intelligence (Investigation) scores. In addition, you can choose to use your passive value instead of a rolled Wisdom (Perception) and Intelligence (Investigation) check. You must choose to use the passive score before the roll.",
+          null,
+          "Source: C0re's Handbook, page 30"
+        ],
+        "modifier": {
+          "_category": "bonus",
+          "__text": "passive wisdom +5",
+          "toString": [
+            null
+          ]
+        }
+      },
+
+      
+      {
+        "name": "Escape Artist",
+        "source": "C0re's Handbook",
+        "text": [
+          "• If you add your proficiency bonus to an ability check made to end the grappled or restrained condition on yourself, you can instead add twice your proficiency bonus.",
+          "• When you escape a creature’s grapple on your turn you can immediately use your bonus action to attack the creature you escaped.",
+          null,
+          "Source: C0re's Handbook, page 35"
+        ]
+      },
+
+
+

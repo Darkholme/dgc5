@@ -14,7 +14,7 @@
 	--background-color01: var(--background-color00);
 	--background-color01: #922610;
 	/*--background-color02: lightgrey;*/ /*Odd Rows, Subclasses*/
-	--background-color02: #a86355;
+	--background-color02: #d97f6d;
 	/*--background-color03: #e69a28;*//*Statblock Border Background*/
 	--background-color03: #922610;
 	/*--background-color04: #922610;*/ /*Statblock Divider Background Color*/
@@ -22,7 +22,7 @@
 	/*--background-color05: white;*/
 	--background-color05: white;
 	/*--background-color06: #fdf1dc;*/ /*Statblock Background Color*/
-	--background-color06: #fdf1dc;
+	--background-color06: #fcebd4;
 	/*--background-color07: #337ab7;*/ /*Tab Buttons*/
 	--background-color07: var(--background-color01);
 

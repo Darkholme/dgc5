@@ -4597,7 +4597,7 @@
                 "name": "Starting Proficiencies",
                 "text": [
                   "You are proficient with the following items, in addition to any proficiencies provided by your race or background.",
-                  "Armor: light armor, medium armor, heavy armor, shields",
+                  "Armor: light armor, shields",
                   "Weapons: simple weapons, martial weapons",
                   "Tools: none",
                   "Skills: Choose two skills from Acrobatics, Animal Handling, Athletics, History, Insight, Intimidation, Perception, and Survival"
@@ -4621,6 +4621,45 @@
           },
           {
             "feature": [
+              {
+                "name": "Defensive Style",
+                "text": [
+                  "You specialize in a certain style of defending yourself. Choose one of the following features."
+                ]
+              },
+              {
+                "name": "Defensive Style: Armor",
+                "text": [
+                  "The best defense is a good suit of armor.",
+                  null,
+                  "You gain proficiency with medium armor and heavy armor."
+                ],
+                "parent": "Defensive Style",
+                "suboption": "YES",
+                "_optional": "YES"
+              },
+              {
+                "name": "Defensive Style: Quick Wits",
+                "text": [
+                  "The best defense is to outsmart your opponents.",
+                  null,
+                  "While you are wearing no armor, your AC equals 10 + your Dexterity modifier + your Intelligence modifier."
+                ],
+                "parent": "Defensive Style",
+                "suboption": "YES",
+                "_optional": "YES"
+              },
+              {
+                "name": "Defensive Style: Charmed Life",
+                "text": [
+                  "Defense? I try not to worry about it. Things have a habit of working out for the best.",
+                  null,
+                  "While you are wearing no armor, your AC equals 10 + your Dexterity modifier + your Charisma modifier."
+                ],
+                "parent": "Defensive Style",
+                "suboption": "YES",
+                "_optional": "YES"
+              },
               {
                 "name": "Fighting Style",
                 "text": [
@@ -7944,7 +7983,7 @@
                 "name": "Starting Proficiencies",
                 "text": [
                   "You are proficient with the following items, in addition to any proficiencies provided by your race or background.",
-                  "Armor: light armor, medium armor, heavy armor, shields",
+                  "Armor: light armor, shields",
                   "Weapons: simple weapons, martial weapons",
                   "Tools: none",
                   "Skills: Choose two from Athletics, Insight, Intimidation, Medicine, Persuasion, and Religion"
@@ -7969,6 +8008,45 @@
           {
             "feature": [
               {
+                "name": "Defensive Style",
+                "text": [
+                  "You specialize in a certain style of defending yourself. Choose one of the following features."
+                ]
+              },
+              {
+                "name": "Defensive Style: Armor",
+                "text": [
+                  "The best defense is a good suit of armor.",
+                  null,
+                  "You gain proficiency with medium armor and heavy armor."
+                ],
+                "parent": "Defensive Style",
+                "suboption": "YES",
+                "_optional": "YES"
+              },
+              {
+                "name": "Defensive Style: Quick Wits",
+                "text": [
+                  "The best defense is to outsmart your opponents.",
+                  null,
+                  "While you are wearing no armor, your AC equals 10 + your Dexterity modifier + your Intelligence modifier."
+                ],
+                "parent": "Defensive Style",
+                "suboption": "YES",
+                "_optional": "YES"
+              },
+              {
+                "name": "Defensive Style: Charmed Life",
+                "text": [
+                  "Defense? I try not to worry about it. Things have a habit of working out for the best.",
+                  null,
+                  "While you are wearing no armor, your AC equals 10 + your Dexterity modifier + your Charisma modifier."
+                ],
+                "parent": "Defensive Style",
+                "suboption": "YES",
+                "_optional": "YES"
+              },
+              {
                 "name": "Divine Sense",
                 "text": [
                   "The presence of strong evil registers on your senses like a noxious odor, and powerful good rings like heavenly music in your ears. As an action, you can open your awareness to detect such forces. Until the end of your next turn, you know the location of any celestial, fiend, or undead within 60 feet of you that is not behind total cover. You know the type (celestial, fiend, or undead) of any being whose presence you sense, but not its identity (the vampire Count Strahd von Zarovich, for instance). Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the hallow spell.",
@@ -7989,6 +8067,7 @@
           },
           {
             "feature": [
+
               {
                 "name": "Divine Smite",
                 "text": [
