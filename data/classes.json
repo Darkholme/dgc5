@@ -4630,8 +4630,7 @@
               {
                 "name": "Defensive Style: Armor",
                 "text": [
-                  "The best defense is a good suit of armor.",
-                  "You gain proficiency with medium armor and heavy armor."
+                  "The best defense is a good suit of armor. You gain proficiency with medium armor and heavy armor."
                 ],
                 "parent": "Defensive Style",
                 "suboption": "YES",
@@ -4640,8 +4639,7 @@
               {
                 "name": "Defensive Style: Quick Wits",
                 "text": [
-                  "The best defense is to outsmart your opponents.",
-                  "While you are wearing no armor, your AC equals 10 + your Dexterity modifier + your Intelligence modifier."
+                  "The best defense is to outsmart your opponents. While you are wearing no armor, your AC equals 10 + your Dexterity modifier + your Intelligence modifier."
                 ],
                 "parent": "Defensive Style",
                 "suboption": "YES",
@@ -4650,8 +4648,7 @@
               {
                 "name": "Defensive Style: Charmed Life",
                 "text": [
-                  "Defense? I try not to worry about it. Things have a habit of working out for the best.",
-                  "While you are wearing no armor, your AC equals 10 + your Dexterity modifier + your Charisma modifier."
+                  "Defense? I try not to worry about it. Things have a habit of working out for the best. While you are wearing no armor, your AC equals 10 + your Dexterity modifier + your Charisma modifier."
                 ],
                 "parent": "Defensive Style",
                 "suboption": "YES",
@@ -8013,8 +8010,7 @@
               {
                 "name": "Defensive Style: Armor",
                 "text": [
-                  "The best defense is a good suit of armor.",
-                  "You gain proficiency with medium armor and heavy armor."
+                  "The best defense is a good suit of armor. You gain proficiency with medium armor and heavy armor."
                 ],
                 "parent": "Defensive Style",
                 "suboption": "YES",
@@ -8023,8 +8019,7 @@
               {
                 "name": "Defensive Style: Quick Wits",
                 "text": [
-                  "The best defense is to outsmart your opponents.",
-                  "While you are wearing no armor, your AC equals 10 + your Dexterity modifier + your Intelligence modifier."
+                  "The best defense is to outsmart your opponents. While you are wearing no armor, your AC equals 10 + your Dexterity modifier + your Intelligence modifier."
                 ],
                 "parent": "Defensive Style",
                 "suboption": "YES",
@@ -8033,8 +8028,7 @@
               {
                 "name": "Defensive Style: Charmed Life",
                 "text": [
-                  "Defense? I try not to worry about it. Things have a habit of working out for the best.",
-                  "While you are wearing no armor, your AC equals 10 + your Dexterity modifier + your Charisma modifier."
+                  "Defense? I try not to worry about it. Things have a habit of working out for the best. While you are wearing no armor, your AC equals 10 + your Dexterity modifier + your Charisma modifier."
                 ],
                 "parent": "Defensive Style",
                 "suboption": "YES",
