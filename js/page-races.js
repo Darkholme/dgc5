@@ -4,6 +4,7 @@ function parsesource (src) {
 	if (source === "Player's Handbook") source = "PHB";
 	if (source === "Elemental Evil Player's Companion") source = "EEPC";
 	if (source === "Sword Coast Adventurer's Guide") source = "SCAG";
+	if (source === "Forgotten Characters of the Realms") source = "FCotR";
 	if (source === "Dungeon Master's Guide") source = "DMG";
 	if (source === "Volo's Guide to Monsters") source = "VGM";
 	if (source === "Unearthed Arcana: Eberron") source = "UA Eberron";
