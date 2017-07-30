@@ -12720,23 +12720,21 @@
                 "_optional": "YES"
               },
               {
-                "name": "Arcane Tradition: Illusion",
+                "name": "Arcane Tradition: Guild Wizard (FRA2)",
                 "text": [
-                  "You focus your studies on magic that dazzles the senses, befuddles the mind, and tricks even the wisest folk. Your magic is subtle, but the illusions crafted by your keen mind make the impossible seem real. Some illusionists\u2014including many gnome wizards\u2014are benign tricksters who use their spells to entertain. Others are more sinister masters of deception, using their illusions to frighten and fool others for their personal gain."
+                  "In some lands, magic is regarded as too important—or too dangerous—to be left in the hands of the self-taught dabblers. In these lands, magic is taught and practiced by members of special orders, guilds, societies, brotherhoods, and cabals who jealously guard access to their powers and seek to control their use.",
                 ],
-                "subclass": "Arcane Tradition: Illusion",
+                "subclass": "Arcane Tradition: Guild Wizard (FRA2)",
                 "parent": "Arcane Tradition",
                 "issubclass": "YES",
                 "_optional": "YES"
               },
               {
-                "name": "Arcane Tradition: Technomancy (UA)",
+                "name": "Arcane Tradition: Illusion",
                 "text": [
-                  "Unlike the more common arcane traditions based around the schools of magic, the tradition of Technomancy does not focus on a singular type of spellcraft or magical energy. Rather, students of Technomancy concern themselves with how their spells interact with modern technology.",
-                  null,
-                  "Technomancers can make use of technology as both a conduit and a storage space for magic. In a campaign using the optional rules for magic item creation (see the Dungeon Master's Guide), a technomancer might craft disposable electronic devices and smartphone apps in lieu of potions and scrolls."
+                  "You focus your studies on magic that dazzles the senses, befuddles the mind, and tricks even the wisest folk. Your magic is subtle, but the illusions crafted by your keen mind make the impossible seem real. Some illusionists\u2014including many gnome wizards\u2014are benign tricksters who use their spells to entertain. Others are more sinister masters of deception, using their illusions to frighten and fool others for their personal gain."
                 ],
-                "subclass": "Arcane Tradition: Technomancy (UA)",
+                "subclass": "Arcane Tradition: Illusion",
                 "parent": "Arcane Tradition",
                 "issubclass": "YES",
                 "_optional": "YES"
@@ -12895,6 +12893,34 @@
                 "_optional": "YES"
               },
               {
+                "name": "Guild Wizard: Arcanist’s Education",
+                "text": [
+                  "At 2nd level when you choose this arcane tradition, you gain proficiency in the Arcana and History skills. Choose one of those two skills. When making ability checks for the chosen skill, you add twice your proficiency bonus to the roll in place of your normal proficiency bonus."
+                ],
+                "subclass": "Arcane Tradition: Guild Wizard (FRA2)",
+                "parent": "Guild",
+                "_optional": "YES"
+              },
+              {
+                "name": "Guild Wizard: Grimoire Library",
+                "text": [
+                  "Beginning when you select this arcane tradition at 2nd level, your guild membership allows you to access to its vast library of spellbooks. Whenever you gain a wizard level, in addition to the normal spells you learn, you can choose any wizard spell listed in the Player’s Handbook and copy it into your spellbook for half the usual price in gold."
+                ],
+                "subclass": "Arcane Tradition: Guild Wizard (FRA2)",
+                "parent": "Guild",
+                "_optional": "YES"
+              },
+              {
+                "name": "Guild Wizard: Signature Technique",
+                "text": [
+                  "Starting at 2nd level, you know an especially impressive spellcasting technique that is either distinctive to your guild or your own method for distinguishing yourself within it. When you gain this feature, choose one wizard spell of 1st-level or higher you know that has a casting time of 1 action, Whenever you use your action to cast the chosen spell, as a bonus action, you can cause each creature in a 10-foot cube originating from you to make a Wisdom saving throw against your wizard spell save DC. The creatures that fail their saving throws are all charmed or frightened by you (your choice) until the end of your next turn.",
+                  "Whenever you gain a level, you can change the spell you use for this technique, choosing a new spell of 1st-level or higher to replace the old one."
+                ],
+                "subclass": "Arcane Tradition: Guild Wizard (FRA2)",
+                "parent": "Guild",
+                "_optional": "YES"
+              },
+              {
                 "name": "School of Illusion: Illusion Savant",
                 "text": [
                   "Beginning when you select this school at 2nd level, the gold and time you must spend to copy an illusion spell into your spellbook is halved."
@@ -12929,24 +12955,6 @@
                 ],
                 "subclass": "Arcane Tradition: Necromancy",
                 "parent": "Necromancy",
-                "_optional": "YES"
-              },
-              {
-                "name": "School of Technomancy: Bonus Proficiencies",
-                "text": [
-                  "Beginning when you select this arcane tradition at 2nd level, you gain proficiency with sidearms and hacking tools."
-                ],
-                "subclass": "Arcane Tradition: Technomancy (UA)",
-                "parent": "Technomancy",
-                "_optional": "YES"
-              },
-              {
-                "name": "School of Technomancy: Technological Savant",
-                "text": [
-                  "Also at 2nd level, you trade out your spellbook for a specially attuned storage device of your choosing, capable of recording magical data. The computing power of this device must be equal to or greater than a tablet computer. Only one storage device can be attuned to you at any given time. Spells can be copied into this device at half the cost of copying spells into a spellbook."
-                ],
-                "subclass": "Arcane Tradition: Technomancy (UA)",
-                "parent": "Technomancy",
                 "_optional": "YES"
               },
               {
@@ -13197,6 +13205,15 @@
                 "_optional": "YES"
               },
               {
+                "name": "Guild Wizard: Far Reaching",
+                "text": [
+                  "At 6th level, when you cast a spell that has a range of touch or a range of 5 feet or greater, you can extend the range of that spell beyond its normal limit. If the spell that has a range of touch, you make the range of the spell 30 feet. If it has a range of 5 feet or greater, you double the range of that spell. Once you use this feature, you cannot use it again until you finish a short or long rest."
+                ],
+                "subclass": "Arcane Tradition: Guild Wizard (FRA2)",
+                "parent": "Guild",
+                "_optional": "YES"
+              },
+              {
                 "name": "School of Illusion: Malleable Illusions",
                 "text": [
                   "Starting at 6th level, when you cast an illusion spell that has a duration of 1 minute or longer, you can use your action to change the nature of that illusion (using the spell's normal parameters for the illusion), provided that you can see the illusion."
@@ -13233,17 +13250,6 @@
                 ],
                 "subclass": "Arcane Tradition: Transmutation",
                 "parent": "Transmutation",
-                "_optional": "YES"
-              },
-              {
-                "name": "School of Techomancy: Program Spell",
-                "text": [
-                  "At 6th level, you can insert a spell within an  electronic device of your choosing, so that by  touching a key or flicking a switch using an  action, the spell activates. All variables of the  spell are set at the time of casting. The computing power of this device must be equal to  or greater than a mobile phone.",
-                  "A programmed spell remains placed in its  device for 48 hours, and is gone once it is  discharged. You can use this feature to place a  programmed spell in only one device at a time,  and a device can hold only one programmed  spell. Only you can activate the programmed  spell in the device. If the device is destroyed, the  programmed spell is lost.",
-                  "A concentration spell placed in a device cannot  be activated while you are concentrating on  another spell. Once you use this feature, you  can't use it again until you finish a long rest."
-                ],
-                "subclass": "Arcane Tradition: Technomancy (UA)",
-                "parent": "Technomancy",
                 "_optional": "YES"
               },
               {
@@ -13380,6 +13386,16 @@
                 "_optional": "YES"
               },
               {
+                "name": "Guild Wizard: Spellpool",
+                "text": [
+                  "At 10th level, when you prepare your spells each day, you can make use of a spellpool, a magical reservoir of spells that can be drawn upon by members of your wizardly guild or magical academy. To so so you must purchase a special arcane focus, which can be of any type you wish, but for which the cost is 25 gp higher than normal. This arcane focus allows you (and only you) to access the spellpool from any distance.",
+                  "When accessing the spellpool, you attempt to prepare a spell that is not in your spellbook. To do so, you must use an action to check to see if the spell is available by making rolling percentile dice. The chance of a particular spell being available is 65% minus 5% per level of the spell. If the spell is available, you may prepare it normally, even if it is not in your spellbook; if not, you cannot prepare that particular spell using this feature until the next time you finish a long rest, at which point you must check for this spell's availability again. There is no limit to the number of spells you can check for availability, but the maximum number of spells you can prepare with this feature at one time is equal to your proficiency bonus. For each spell you prepare with this feature, you must loan out a spell of the same level or higher from your spellbook to the spellpool. A spell you loan out is treated as if it were not in your spellbook at all until the next time you finish a long rest."
+                ],
+                "subclass": "Arcane Tradition: Guild Wizard (FRA2)",
+                "parent": "Guild",
+                "_optional": "YES"
+              },
+              {
                 "name": "School of Illusion: Illusory Step",
                 "text": [
                   "Beginning at 10th level, you can create an illusory duplicate of yourself as an instant, almost instinctual reaction to danger. When a creature makes an attack roll against you, you can use your reaction to interpose the illusory duplicate between the attacker and yourself. The attack automatically misses you, then the illusion dissipates.",
@@ -13396,17 +13412,6 @@
                 ],
                 "subclass": "Arcane Tradition: Necromancy",
                 "parent": "Necromancy",
-                "_optional": "YES"
-              },
-              {
-                "name": "School of Techomancy: Online Casting",
-                "text": [
-                  "At 10th level, you can cast spells through  networked electronic devices, including cameras,  mobile phones, and computers. For example, if a  creature is under the observation of a security  camera and you can see the video feed from that  camera on a computer, you can cast a spell into  the computer and out through the security  camera to target that creature.",
-                  "If the spell requires the caster to be seen, the  target must see you or a live image of you. If the  spell requires the caster to be heard, the target must be able to hear you or a live audio  transmission of you. The spell's range is  determined using the distance from you to your  device, and then from the target to its device.  You must be able to see or otherwise determine the location of the target. This feature can be  used to cast only spells that target specific  creatures. Spells that affect an area are not  subject to online casting.",
-                  "This feature can be used a number of times per  day equal to your Intelligence modifier (minimum of once)."
-                ],
-                "subclass": "Arcane Tradition: Technomancy (UA)",
-                "parent": "Technomancy",
                 "_optional": "YES"
               },
               {
@@ -13538,6 +13543,26 @@
                 "_optional": "YES"
               },
               {
+                "name": "Guild Wizard: Arcane Analysis",
+                "text": [
+                  "Starting at 14th level, you’ve spent so much time interacting with other mages that you can quickly analyze situations and bring your past experience to bear on solving problems. Whenever you make an Intelligence check that does not include your proficiency bonus (such as the ability check for counterspell or dispel magic), you can add half your proficiency bonus, rounded down, to that roll."
+                ],
+                "subclass": "Arcane Tradition: Guild Wizard (FRA2)",
+                "parent": "Guild",
+                "_optional": "YES"
+              },
+              {
+                "name": "Guild Wizard: Master Wizard",
+                "text": [
+                  "At 14th level, you are elevated to your guild’s trusted inner circle of wise, experienced masters. As a master, you can speak for your order; your order backs you to the greatest extent possible. You are expected to be careful about taking stands or making promises that are difficult for your guild to support, but your fellow members trust you to know when difficult tasks are necessary.",
+                  "Many arcane guilds are arranged as hierarchies, with adepts of greater seniority and status holding important offices in the organization. High-ranking masters often have the authority to assign missions to lesser members and review their activities. Holding an office gives you significant power to influence your order’s actions, but requires your time and commitment. Many masters choose to avoid these responsibilities and prefer to busy themselves with their own affairs. Whether you agree to take a position in your order’s leadership or remain a free agent is up to you.",
+                  "Every tenday, if you wish to maintain your office, you must spend 1 day dealing with guild business. (When you spend downtime, you must spend 1 extra day of downtime for every 10 downtime days you spend.) If you do so, for the next ten days, you gain a bonus on all your Charisma checks with other spellcasters equal to half your Intelligence modifier (rounded down, minimum 1)."
+                ],
+                "subclass": "Arcane Tradition: Guild Wizard (FRA2)",
+                "parent": "Guild",
+                "_optional": "YES"
+              },
+              {
                 "name": "School of Illusion: Illusory Reality",
                 "text": [
                   "By 14th level, you have learned the secret of weaving shadow magic into your illusions to give them a semireality. When you cast an illusion spell of 1st level or higher, you can choose one inanimate, nonmagical object that is part of the illusion and make that object real. You can do this on your turn as a bonus action while the spell is ongoing. The object remains real for 1 minute. For example, you can create an illusion of a bridge over a chasm and then make it real long enough for your allies to cross.",
@@ -13586,15 +13611,6 @@
                 ],
                 "subclass": "Arcane Tradition: Transmutation",
                 "parent": "Transmutation",
-                "_optional": "YES"
-              },
-              {
-                "name": "School of Techomancy: Chained Device",
-                "text": [
-                  "By 14th level, you have learned to imprint  vestiges of your consciousness on electronic  devices with significant computing power. When  you cast a concentration spell, you can use a  device whose computing power is equal to or greater than a tablet computer to maintain  concentration of the spell on your behalf. The  device must be held or worn by you to maintain  this effect. If the device is destroyed, taken from  you, dropped, or turned off, the concentration ends. Once you use this feature, you can't use it  again until you finish a long rest."
-                ],
-                "subclass": "Arcane Tradition: Technomancy (UA)",
-                "parent": "Technomancy",
                 "_optional": "YES"
               },
               {

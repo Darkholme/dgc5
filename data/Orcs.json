@@ -1,0 +1,270 @@
+
+      {
+        "name": "Orc (Mountain)",
+        "source": "Houserule",
+        "size": "M",
+        "speed": "30",
+        "ability": "Str 2, Con 1",
+        "proficiency": "Intimidation",
+        "trait": [
+          {
+            "name": "Darkvision",
+            "text": [
+              "You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+            ]
+          },
+          {
+            "name": "Aggressive",
+            "text": [
+              "As a bonus action, you can move up to your movement speed toward a hostile creature you can see or hear. You must end this move closer to the enemy than you started."
+            ]
+          },
+          {
+            "name": "Menacing",
+            "text": [
+              "You are trained in the Intimidation skill."
+            ]
+          },
+          {
+            "name": "Relentless Endurance",
+            "text": [
+              "When you are reduced to 0 hit points but not killed outright, you can drop to 1 hit point instead. You can't use this feature again until you finish a long rest."
+            ]
+          },
+          {
+            "name": "Languages",
+            "text": [
+              "You can speak, read, and write Common and Orc. Orc is a harsh, grating language with hard consonants. It has no script of its own but is written in the Dwarvish script."
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Orc (Gray)",
+        "source": "Houserule",
+        "size": "M",
+        "speed": "35",
+        "ability": "Str 2, Wis 1",
+        "proficiency": "Intimidation",
+        "trait": [
+          {
+            "name": "Age",
+            "text": [
+              " Gray orcs live longer than mountain orcs. They reach adulthood at age 14 and live up to 75 years."
+            ]
+          },
+          {
+            "name": "Darkvision",
+            "text": [
+              "You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+            ]
+          },
+          {
+            "name": "Menacing",
+            "text": [
+              "You have proficiency in the Intimidation skill."
+            ]
+          },
+          {
+            "name": "Aggressive",
+            "text": [
+              "As a bonus action, you can move up to your movement speed toward a hostile creature you can see or hear. You must end this move closer to the enemy than you started."
+            ]
+          },
+          {
+            "name": "Keen Scent",
+            "text": [
+              "You gain advantage on Wisdom (Perception) checks involving smell and, if you are trained in Survival, advantage on Wisdom (Survival) checks to track another creature.\nIn addition, you can smell the presence and general direction—but not the exact location—of a hidden or invisible creature within 30 feet of you with a passive Wisdom (Perception) check contested by the creature’s Dexterity (Stealth) check. The DM can grant one or the other of the checks advantage or disadvantage based on the circumstances. For example, the DM can grant you advantage on your Wisdom (Perception) check if you are downwind from the creature or disadvantage if you are upwind. Similarly, DM can grant the creature disadvantage on its Dexterity (Stealth) check if it emits a particularly strong odor—such as a skunk, ghast, or troglodyte—or advantage if it is hidden amidst a particularly strong odor—such as rotting garbage."
+            ]
+          },
+          {
+            "name": "Languages",
+            "text": [
+              "You can speak, read, and write Common and Orc. Orc is a harsh, grating language with hard consonants. It has no script of its own but is written in the Dwarvish script."
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Orc (Ondonti)",
+        "source": "Houserule",
+        "size": "M",
+        "speed": "35",
+        "ability": "Con 2, Wis 1",
+        "trait": [
+          {
+            "name": "Age",
+            "text": [
+              "Ondonti have attained a longer lifespan than other orcs as a result of their harmonious culture and curative divine magic. They reach adulthood at age 14 and regularly live up to 60 years with many others living to age 85 or a bit longer."
+            ]
+          },
+          {
+            "name": "Benedictions of Eldath",
+            "text": [
+              "You can cast purify food and drink as a ritual. When you reach 3rd level, you can cast sanctuary on yourself once with this trait. When you reach 5th level, you can cast barkskin on yourself once with this trait. When you reach 7th level, you can cast flow into plants on yourself once with this trait. This spell work the same as meld into stone (PH 259), except it allows you to step into a non-sentient plant, such as a tree or shrub, large enough to fully contain your body instead of stone, you retain the ability see what occurs outside the plant, and you do not suffer disadvantage on Wisdom (Perception) checks to hear while melded into the plant. You don’t need material components for any of the spells. You regain the ability to cast the spells when you finish a long rest. Wisdom is your spellcasting ability for these spells."
+            ]
+          },
+          {
+            "name": "Serenity Blessing",
+            "text": [
+              "You have advantage on saving throws against being charmed or frightened."
+            ]
+          },
+          {
+            "name": "Languages",
+            "text": [
+              "You can speak, read, and write Common and Druidic."
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Orc (Orog)",
+        "source": "Houserule",
+        "size": "M",
+        "speed": "30",
+        "ability": "Str 2, Cha 1",
+        "proficiency": "Intimidation, Smith's Tools",
+        "trait": [
+          {
+            "name": "Age",
+            "text": [
+              "Orogs live longer than mountain orcs. They reach adulthood at age 12 and live up to 60 years."
+            ]
+          },
+          {
+            "name": "Superior Darkvision",
+            "text": [
+              "You can see in dim light within 120 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+            ]
+          },
+          {
+            "name": "Sunlight Sensitivity",
+            "text": [
+              "You have disadvantage on attack rolls and on Wisdom (Perception) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight."
+            ]
+          },
+          {
+            "name": "Aggressive",
+            "text": [
+              "As a bonus action, you can move up to your movement speed toward a hostile creature you can see or hear. You must end this move closer to the enemy than you started."
+            ]
+          },
+          {
+            "name": "Armor- and Weaponsmiths",
+            "text": [
+              "Over the centuries, the orogs have mastered the art of forging armor and weapons of the deep metals found in the Underdark. An orog rarely goes anywhere without being fully armed and armored. You gain proficiency with smith’s tools.."
+            ]
+          },
+          {
+            "name": "Cave Mother’s Endurance",
+            "text": [
+              "Cave Mother’s Endurance. The Cave Mother has blessed you with toughened muscles and sinew that allow you ignore injury. When you take damage, you can use your reaction to roll a d8. Add your Constitution modifier to the number rolled, and reduce the damage by that total. After you use this trait, you can’t use it again until you finish a short or long rest."
+            ]
+          },
+          {
+            "name": "Menacing",
+            "text": [
+              "You are trained in the Intimidation skill."
+            ]
+          },
+          {
+            "name": "Mighty Build",
+            "text": [
+              "You add your proficiency bonus to all Strength checks to push, pull, drag, lift, or break things and count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift."
+            ]
+          },
+          {
+            "name": "Languages",
+            "text": [
+              "You can speak, read, and write Undercommon and Orc. Orc is a harsh, grating language with hard consonants. It has no script of its own but is written in the Dwarvish script."
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Orc (Thayan, Red)",
+        "source": "Houserule",
+        "size": "M",
+        "speed": "30",
+        "ability": "Str 2, Con 1 ",
+        "proficiency": "1 Martial Weapon",
+        "trait": [
+          {
+            "name": "Darkvision",
+            "text": [
+              "You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. Your ties to the Elemental Plane of Fire make your darkvision unusual: everything you see in darkness is in a shade of red."
+            ]
+          },
+          {
+            "name": "Relentless Endurance",
+            "text": [
+              "When you are reduced to 0 hit points, but not killed outright, you can drop to 1 hit point instead. You cannot use this feature again until you complete a long rest."
+            ]
+          },
+          {
+            "name": "Military Training",
+            "text": [
+              "You have Proficiency with one Martial weapon of your choice."
+            ]
+          },
+          {
+            "name": "Powerful Build",
+            "text": [
+              "You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift."
+            ]
+          },
+          {
+            "name": "War Cry",
+            "text": [
+              "As an action, you can scream a war cry that grants all allies within 30 feet that can hear it a +1 bonus to attack rolls and damage rolls until the end of your next turn. After using this trait, you cannot use it again until you complete a short rest or a long rest."
+            ]
+          },
+          {
+            "name": "Languages",
+            "text": [
+              "You can speak, read, and write Common, Mulhorandi, and Orc."
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Orc (Thayan, Black)",
+        "source": "Houserule",
+        "size": "M",
+        "speed": "30",
+        "ability": "Dex 2, Con 1 ",
+        "proficiency": "Stealth, 1 Martial Weapon",
+        "trait": [
+          {
+            "name": "Darkvision",
+            "text": [
+              "You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. Your ties to the Elemental Plane of Fire make your darkvision unusual: everything you see in darkness is in a shade of red."
+            ]
+          },
+          {
+            "name": "Relentless Endurance",
+            "text": [
+              "When you are reduced to 0 hit points, but not killed outright, you can drop to 1 hit point instead. You cannot use this feature again until you complete a long rest."
+            ]
+          },
+          {
+            "name": "Military Training",
+            "text": [
+              "You have Proficiency with one Martial weapon of your choice."
+            ]
+          },
+          {
+            "name": "Stealthy",
+            "text": [
+              "You are proficient in stealth."
+            ]
+          },
+          {
+            "name": "Languages",
+            "text": [
+              "You can speak, read, and write Common, Mulhorandi, and Orc."
+            ]
+          }
+        ]
+      },

@@ -1999,6 +1999,82 @@ var featdata = {
           null,
           "Source: Forgotten Characters of the Realms, page 98"
         ]
+      },
+      {
+         "name": "Shadow Magic",
+         "prerequisite": "Shadowborn (Shade)",
+         "source": "Forgotten Characters of the Realms",
+         "text": [
+         "Your darkvision increases to a radius of 120 feet and magical darkness no longer impedes your darkvision. In addition, you have advantage on Intelligence (Investigation) checks to discern illusions.",
+         "You also can call upon the power of shadow to cast the following spells a combination of four times with this ability: darkness, invisibility, mirror image, and misty step (up to 60 feet). You regain the ability to cast these spells when you finish a long rest. Charisma is your spellcasting ability for these spells.",
+         null,
+         "Source: Forgotten Characters of the Realms, page XX"
+         ]
+      },
+      {
+        "name": "Tactically Armored",
+        "prerequisite": "Proficiency with medium armor",
+        "source": "???",
+        "text": [
+          "Through rigorous training, you've mastered the use of medium armor.",
+          "• You can sleep in medium armor as well as you could no armor.",
+          "• You gain a +1 bonus to armor class when wearing medium armor.",
+          "• Your stealth is not at disadvantage due to wearing medium armor.",
+          null,
+          "Source: , page XX"
+        ]
+      },
+      {
+        "name": "Metamagic Reservoir",
+        "prerequisite": "The ability to cast at least one spell",
+        "source": "???",
+        "text": [
+          "",
+          "• Your metamagic pool increases in size or you gain a metamagic pool if you did not have one.",
+          "• You gain 2 sorcery points.",
+          "• ",
+          null,
+          "Source: , page XX"
+        ]
+      },
+      {
+        "name": "Combat Style: Brutal Rogue",
+        "prerequisite": "Sneak Attack",
+        "source": "Houserule",
+        "text": [
+          "You land powerful blows in the right places.",
+          null,
+          "Assassin's Stance",
+          "While you are in this stance, you can treat sneak attack damage die rolls of 1 as 2.",
+          null,
+          "Versatile Sneak Attack",
+          "While you are in assassin's stance, you can apply sneak attack damage to all melee weapons.",
+          null,
+          "Source: Houserule"
+        ]
+      },
+      {
+        "name": "Spellfire Wielder",
+        "prerequisite": "",
+        "source": "Forgotten Realms Archetypes II *",
+        "text": [
+          "You are one of the rare people who have the innate talent to control raw magic in the form of spellfire. This grants the following benefits:",
+          null,
+          "• You learn the produce flame cantrip.",
+          "• If you already have spellfire dice, you gain one more; otherwise, you have two spellfire dice, which are d8’s. These spellfire dice are used to fuel the uses described below. A spellfire die is expended when you use it. You regain all of your expended spellfire dice when you finish a long rest. If you are in an area where spells are suppressed or cannot be cast (such as an antimagic field spell), you cannot use spellfire dice.",
+          "• When you take cold damage or damage from a spell, you can use your reaction to expend 1 or more spellfire dice and regain hit points equal to the total number rolled on your spellfire dice.",
+          "• When you make a saving throw against a spell, you can use your reaction to expend 1 or more spellfire dice and gain advantage on that saving throw. You then roll your spellfire dice and regain hit points equal to half the total number rolled.",
+          "• Whenever you inflict fire damage with a spell or cantrip, you can use your bonus action to expend 1 or more spellfire dice to inflict extra damage against one target of that fire damage (even if that target took no fire due to immunity). The target takes force damage equal to your total spellfire dice roll, and you can push the target up to 10 feet away from you. When you reach 5th level, you can choose a second target (if possible). At 11th level, you can choose a total of three targets; at 17th level, the total number of targets you can choose increases to four.",
+          "• As an action, you can expend 1 or more spellfire dice to heal a creature you touch for a number of hit points equal to your total spellfire dice roll.",
+          "• Whenever you spend 1 or more spellfire dice, until the end of your next turn you shed bright light in a 30-foot radius and dim light for an additial 30 feet. If you spend 4 or more spellfire dice at once, these radii are doubled.",
+          "• When you yourself with spellfire dice, if the total amount of healing from one use is 10 hit points or more, you can decrease the number of hit points regained by 10 and regain 1 expended spellfire die.",
+          "• As long as you have at least one unexpended spellfire die remaining, you are considered naturally adapted to cold climates.",
+          "• You gain the ability to start fires with a touch. As an action, you can magically ignite a flammable object you touch with your hand—an object such as a torch, a piece of tinder, or the hem of drapes.",
+          "• If you are 5th level or lower, you can only expend 1 spellfire die per turn. If you are 6th level or higher, the maximum number of spellfire dice you can spend per turn equals 1 + your Scaling Bonus. However, whenever you spend 2 or more spellfire dice in a single turn, if the total number of spellfire dice spent exceeds your Constitution modifier, you must make a Wisdom saving throw against a DC equal to 14 + your Scaling Bonus bonus. If you fail, you and any creatures within 10 feet take fire damage equal to 1 + half your level + your scaling bonus and force damage equal to 1 + half your level + your scaling bonus.",
+          "• You can cast the detect magic spell once without using a spell slot, regaining expended uses when you finish a long rest.",
+          null,
+          "Source: Forgotten Realms Archetypes II, 44"
+        ]
       }
     ],
     "_version": "5"
