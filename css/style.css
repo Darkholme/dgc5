@@ -115,7 +115,8 @@ ul.list li {
 }
 
 ul.list li:hover {
-	background: rgba(0,0,0,0.40) !important;
+	background: var(--shadow-color02) !important;
+	color: var(--textcolor01);
 	max-height: 100%;
 }
 
@@ -530,7 +531,7 @@ ul.list{
 #rulescontent table tbody tr:nth-child(odd) td,
 #msbcr tr:nth-child(even),
 ul.list li:nth-child(even) {
-	background: rgba(0,0,0,0.15);
+	background: var(--shadow-color01);
 }
 
 aside#listcontainer {

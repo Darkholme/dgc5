@@ -9,6 +9,7 @@
 	/*--background-image02: url('img/Textures/Parchment2.png');
 	--background-image03: url('img/Textures/Wood.jpg');*/
 
+
 	/*Stylesheet Colors*/
 	/*--background-color01: rgb(0, 107, 196);*/ /*Header Background Color*/
 	--background-color01: var(--background-color00);
@@ -79,4 +80,8 @@
 	--sourcecolor09: lightgreen;
 	--sourcecolor10: red;
 	--sourcecolor11: maroon;
+
+
+	--shadow-color01: rgba(146,38,16,0.25);
+	--shadow-color02: var(--background-color04);
 }
